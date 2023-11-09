@@ -1,4 +1,4 @@
-# auto-commit
+# simple-commit
 
 This is a Python script that automates the process of committing changes to a Git repository.
 
