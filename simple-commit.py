@@ -1,4 +1,4 @@
-# Auto commiting by J-Agostino
+# Simple commiting by J-Agostino
 # Faster than writing in the console
 # 
 # This program is still being developed.
